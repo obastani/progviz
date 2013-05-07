@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse Files #
+.metadata
+.project
+.settings
+
+# output files #
+*.dot
